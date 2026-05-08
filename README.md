@@ -32,7 +32,7 @@
      └─────────────────────────────────────────────────────────────────────┘ -->
 
 <details open>
-<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="22" align="absmiddle"/> &nbsp; Classified Dossier — <code>terminal/user/astreon.ts</code></b></summary>
+<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="22" align="absmiddle"/> &nbsp; Classified Dossier — <code>terminal/user/astreon.ts</code></b></summary>
 <br/>
 
 ```typescript
@@ -129,7 +129,7 @@ class Astreon implements Developer {
 
 <br/><br/>
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="22" align="absmiddle"/> Active Operations</b>
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="24" align="absmiddle"/> Active Operations</b>
 
 | Project | Stack | Status |
 |---|---|---|
@@ -163,7 +163,7 @@ class Astreon implements Developer {
 
 <br/>
 
-<sub><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="14" align="absmiddle"/> Engineered with precision. Deployed with purpose.</b><br/><i>"Build what others say is impossible."</i></sub>
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" align="absmiddle"/> Engineered with precision. Deployed with purpose.</h4><i>"Build what others say is impossible."</i>
 
 <br/><br/>
 
