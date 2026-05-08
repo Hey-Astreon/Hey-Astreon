@@ -125,7 +125,7 @@ class Astreon implements Developer {
 
 #### 💾 &nbsp; Data Layer — Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,firebase&theme=dark" alt="Databases" />
 </p>
 
 </div>
