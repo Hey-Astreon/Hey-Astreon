@@ -32,7 +32,7 @@
      └─────────────────────────────────────────────────────────────────────┘ -->
 
 <details open>
-<summary><b>🖥️ &nbsp; Classified Dossier — <code>terminal/user/astreon.ts</code></b></summary>
+<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="22" align="absmiddle"/> &nbsp; Classified Dossier — <code>terminal/user/astreon.ts</code></b></summary>
 <br/>
 
 ```typescript
@@ -79,7 +79,7 @@ class Astreon implements Developer {
 <!-- ── LEFT COLUMN: TELEMETRY ─────────────────────────────────────────── -->
 <td width="50%" valign="top" align="center" style="border:none;">
 
-**📡 Telemetry**
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="22" align="absmiddle"/> Telemetry</b>
 
 <img src="https://komarev.com/ghpvc/?username=Hey-Astreon&color=00F2FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 
@@ -100,7 +100,7 @@ class Astreon implements Developer {
 <!-- ── RIGHT COLUMN: ARSENAL + PROJECTS ──────────────────────────────── -->
 <td width="50%" valign="top" align="left" style="border:none; padding-left:12px;">
 
-**⚔️ Tech Arsenal**
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="22" align="absmiddle"/> Tech Arsenal</b>
 
 `Languages`
 <br/>
@@ -129,7 +129,7 @@ class Astreon implements Developer {
 
 <br/><br/>
 
-**🚀 Active Operations**
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="22" align="absmiddle"/> Active Operations</b>
 
 | Project | Stack | Status |
 |---|---|---|
@@ -163,7 +163,7 @@ class Astreon implements Developer {
 
 <br/>
 
-<sub><b>⚡ Engineered with precision. Deployed with purpose.</b><br/><i>"Build what others say is impossible."</i></sub>
+<sub><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="14" align="absmiddle"/> Engineered with precision. Deployed with purpose.</b><br/><i>"Build what others say is impossible."</i></sub>
 
 <br/><br/>
 
