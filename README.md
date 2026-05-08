@@ -215,14 +215,20 @@ class Astreon implements Developer {
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF" alt="GitHub Stats" />
+  <a href="https://github.com/Hey-Astreon">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" alt="GitHub Streak" />
+  <a href="https://github.com/Hey-Astreon">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" alt="GitHub Streak" />
+  </a>
 
   <br/>
   <br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Astreon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E6EDF3&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Hey-Astreon">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hey-Astreon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E6EDF3&langs_count=8" alt="Top Languages" />
+  </a>
 
 </div>
 
