@@ -32,7 +32,7 @@
      └─────────────────────────────────────────────────────────────────────┘ -->
 
 <details open>
-<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="22" align="absmiddle"/> &nbsp; Classified Dossier — <code>terminal/user/astreon.ts</code></b></summary>
+<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="22" align="absmiddle" alt="Ninja"/> &nbsp; Classified Dossier — <code>terminal/user/astreon.ts</code></b></summary>
 <br/>
 
 ```typescript
@@ -79,7 +79,7 @@ class Astreon implements Developer {
 <!-- ── LEFT COLUMN: TELEMETRY ─────────────────────────────────────────── -->
 <td width="50%" valign="top" align="center" style="border:none;">
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="22" align="absmiddle"/> Telemetry</b>
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="22" align="absmiddle" alt="Satellite"/> Telemetry</b>
 
 <img src="https://komarev.com/ghpvc/?username=Hey-Astreon&color=00F2FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 
@@ -100,7 +100,7 @@ class Astreon implements Developer {
 <!-- ── RIGHT COLUMN: ARSENAL + PROJECTS ──────────────────────────────── -->
 <td width="50%" valign="top" align="left" style="border:none; padding-left:12px;">
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="22" align="absmiddle"/> Tech Arsenal</b>
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="22" align="absmiddle" alt="Swords"/> Tech Arsenal</b>
 
 `Languages`
 <br/>
@@ -129,7 +129,7 @@ class Astreon implements Developer {
 
 <br/><br/>
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="24" align="absmiddle"/> Active Operations</b>
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="absmiddle" alt="Rocket"/> Active Operations</b>
 
 | Project | Stack | Status |
 |---|---|---|
@@ -163,7 +163,8 @@ class Astreon implements Developer {
 
 <br/>
 
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" align="absmiddle"/> Engineered with precision. Deployed with purpose.</h4><i>"Build what others say is impossible."</i>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" align="absmiddle" alt="Zap"/> Engineered with precision. Deployed with purpose.</h3>
+<p><i>"Build what others say is impossible."</i></p>
 
 <br/><br/>
 
