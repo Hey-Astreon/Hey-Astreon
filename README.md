@@ -109,19 +109,72 @@ class Astreon implements Developer {
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="24" /> Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,nextjs,react,vue,nodejs,dotnet,fastapi,django,aws,docker,linux,git,github,postgresql,mongodb,mysql,supabase,firebase&theme=dark&perline=8" alt="Tech Stack" />
-</p>
+<br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="24" /> Holographic Schematics
+**⚔️ Combat Stack — Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript&theme=dark" alt="Languages" />
+<br/><br/>
 
-<div align="center">
-  <a href="https://github.com/Hey-Astreon/SEMBIOTE-Ai"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hey-Astreon&repo=SEMBIOTE-Ai&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" /></a>
-  <a href="https://github.com/Hey-Astreon/Astra-Vision"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hey-Astreon&repo=Astra-Vision&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00F2FF&text_color=E6EDF3" width="48%" /></a>
-  <br/>
-  <a href="https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hey-Astreon&repo=Zero-Knowledge-Password-Manager&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=8B5CF6&text_color=E6EDF3" width="48%" /></a>
-  <a href="https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hey-Astreon&repo=Aura-Insights-AI-Book-Intelligence&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" /></a>
-</div>
+**🏗️ Architecture — Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi,django&theme=dark" alt="Frameworks" />
+<br/><br/>
+
+**🧠 Intelligence — AI & ML**
+<br/>
+<img src="https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=google&logoColor=00F2FF" alt="Gemini" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=00F2FF" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=00F2FF" alt="OpenAI" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00F2FF" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00F2FF" alt="PyTorch" />
+<br/><br/>
+
+**🛡️ Infrastructure & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postgresql,supabase,firebase&theme=dark" alt="Infra Data" />
+<br/><br/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="24" /> Active Operations
+
+<table width="100%" style="border: 1px solid #141E30;">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Hey-Astreon/SEMBIOTE-Ai" style="color: #00F2FF; text-decoration: none;">🛸 SEMBIOTE-Ai</a></h4>
+      <img src="https://img.shields.io/badge/SOVEREIGN-000?style=flat-square&labelColor=000&color=00F2FF" />
+      <br/><br/>
+      Native C# intelligence system for secure-environments. Dual-layer extraction & stealth HUD.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=00F2FF" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Hey-Astreon/Astra-Vision" style="color: #8B5CF6; text-decoration: none;">🔭 Astra Vision</a></h4>
+      <img src="https://img.shields.io/badge/PUBLIC-000?style=flat-square&labelColor=000&color=8B5CF6" />
+      <br/><br/>
+      AI-powered vision system leveraging advanced OCR for real-time content extraction.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00F2FF" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager" style="color: #EF4444; text-decoration: none;">🔐 ZK Password Vault</a></h4>
+      <img src="https://img.shields.io/badge/SECURITY-000?style=flat-square&labelColor=000&color=EF4444" />
+      <br/><br/>
+      Cryptographically secure vault with zero-knowledge architecture.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Encryption-000?style=flat-square&logo=letsencrypt&logoColor=00F2FF" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence" style="color: #4ADE80; text-decoration: none;">📚 Aura Insights</a></h4>
+      <img src="https://img.shields.io/badge/AI-000?style=flat-square&labelColor=000&color=4ADE80" />
+      <br/><br/>
+      Book intelligence platform that transforms reading into deep understanding via AI.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00F2FF" />
+    </td>
+  </tr>
+</table>
 
 </td>
 </tr>
