@@ -11,7 +11,7 @@
 <div align="center">
 
   <!-- ANIMATED WAVE HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:141E30,50:243B55,75:141E30,100:0D1117&height=220&section=header&text=Roushan%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Systems%20Architect%20%7C%20AI%20Engineer%20%7C%20Security%20Researcher&descSize=17&descColor=00F2FF&descAlignY=52&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:141E30,50:243B55,75:141E30,100:0D1117&height=220&section=header&text=Roushan%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20System%20Architect%20%7C%20Prompt%20Engineer&descSize=17&descColor=00F2FF&descAlignY=52&animation=fadeIn" width="100%" alt="Header" />
 
   <!-- TYPING ANIMATION -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Building+What+Others+Say+Is+Impossible;Crafting+Invisible+Systems+That+Matter;The+Ghost+In+The+Machine;%E2%9A%A1+Solo+Developer+%7C+System+Architect" alt="Typing Animation" />
