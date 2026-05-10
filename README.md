@@ -152,16 +152,24 @@ class Astreon implements Developer {
 
 <br/>
 
-<!-- FOOTER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2500&pause=500&color=00F2FF&center=true&vCenter=true&width=450&height=28&lines=%5B+SYSTEM+ACTIVE+%5D;%5B+SHIELD+ENGAGED+%5D;%5B+GHOST+MODE+%5D;%5B+ALL+SYSTEMS+NOMINAL+%5D" alt="Footer Status" />
-
-<br/>
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" align="absmiddle" alt="Zap"/> Engineered with precision. Deployed with purpose.</h3>
-<p><i>"Build what others say is impossible."</i></p>
+<!-- FOOTER LOG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&height=40&lines=%3E_SYSTEM_ACTIVE_//_SHIELD_ENGAGED;%3E_GHOST_MODE_ENABLED;%3E_ALL_SYSTEMS_NOMINAL;%3E_CONNECTION_SECURE" alt="Footer Status" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:141E30,50:243B55,75:141E30,100:0D1117&height=80&section=footer" width="100%" />
+<div align="center">
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="24" align="absmiddle" alt="Zap"/> Engineered with precision. Deployed with purpose.</h3>
+<p><i>"Build what others say is impossible."</i></p>
+</div>
+
+<br/>
+
+<!-- HYPER-WAVE ANCHOR -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&text=HEY+ASTREON&fontSize=40&fontColor=00F2FF&animation=twinkle&fontAlignY=60" width="100%" alt="Hyper Wave" />
+
+<br/><br/>
+
+
+
 
 </div>
