@@ -164,8 +164,8 @@ class Astreon implements Developer {
 
 <br/>
 
-<!-- HYPER-WAVE ANCHOR -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&text=HEY+ASTREON&fontSize=40&fontColor=00F2FF&animation=twinkle&fontAlignY=60" width="100%" alt="Hyper Wave" />
+<!-- PURE LIQUID WAVE ANCHOR -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F2FF,100:8B5CF6&height=200&section=footer" width="100%" alt="Wave" />
 
 <br/><br/>
 
