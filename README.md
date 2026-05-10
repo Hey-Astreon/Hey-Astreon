@@ -73,31 +73,46 @@ class Astreon implements Developer {
 
 <div align="center">
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" align="absmiddle" alt="UFO"/> Telemetry Dashboard</b>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=35&width=1000&text=SYSTEM+STATUS%3A+GHOST_MODE_ACTIVE+%2F%2F+INTEGRITY+100%25&fontSize=14&fontColor=00F2FF&fontAlignY=50" width="100%" alt="System Status" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" height="165" />
+
+<br/><br/><br/>
+
+<!-- TERMINAL BLOCK 1 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_cat_core_languages.sh&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Hey-Astreon&color=00F2FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" height="42" />
+
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" alt="Streak" />
+<!-- TERMINAL BLOCK 2 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_load_architecture.cfg&fontSize=15&fontColor=8B5CF6&fontAlignY=50" alt="Terminal Header" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" height="42" />
+
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=TECH+STACK;ENGINEERED+FOR+SCALE" alt="Tech Stack" />
+<!-- TERMINAL BLOCK 3 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_initialize_intelligence.sys&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00F2FF" />&nbsp;
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=google&logoColor=00F2FF" />&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00F2FF" />
+<br/><br/>
 
-</div>
+<!-- TERMINAL BLOCK 4 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_secure_infrastructure.sh&fontSize=15&fontColor=8B5CF6&fontAlignY=50" alt="Terminal Header" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" height="42" />
 
-> ### ⚙️ Languages & Core
-> <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" height="40" />
+<br/><br/><br/>
 
-> ### 🏗️ Frameworks & Architecture
-> <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" height="40" />
-
-> ### ☁️ Infrastructure & Data
-> <img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" height="40" />
-
-> ### 🧠 Intelligence Engine
-> <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=google&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00F2FF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&width=1000" width="100%" alt="UI Divider" />
 
 <br/>
 
@@ -124,10 +139,6 @@ class Astreon implements Developer {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Hey-Astreon&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15" alt="Trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Astreon&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F2FF&line=8B5CF6&point=00F2FF&area=true" alt="Activity Graph" width="100%" />
 
 <br/>
 
