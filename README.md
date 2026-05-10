@@ -134,19 +134,19 @@ class Astreon implements Developer {
 
 <div align="center">
   <a href="https://github.com/Hey-Astreon/SEMBIOTE-Ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hey-Astreon&repo=SEMBIOTE-Ai&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Hey-Astreon&repo=SEMBIOTE-Ai&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="400" />
   </a>
   &nbsp;
   <a href="https://github.com/Hey-Astreon/Astra-Vision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hey-Astreon&repo=Astra-Vision&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Hey-Astreon&repo=Astra-Vision&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="400" />
   </a>
   <br/><br/>
   <a href="https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hey-Astreon&repo=Zero-Knowledge-Password-Manager&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Hey-Astreon&repo=Zero-Knowledge-Password-Manager&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="400" />
   </a>
   &nbsp;
   <a href="https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hey-Astreon&repo=Aura-Insights-AI-Book-Intelligence&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Hey-Astreon&repo=Aura-Insights-AI-Book-Intelligence&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="400" />
   </a>
 </div>
 
