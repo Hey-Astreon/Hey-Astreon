@@ -140,6 +140,10 @@ class Astreon implements Developer {
 
 <img src="https://github-profile-trophy.vercel.app/?username=Hey-Astreon&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15" alt="Trophies" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Astreon&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F2FF&line=8B5CF6&point=00F2FF&area=true" alt="Activity Graph" width="100%" />
+
 <br/>
 
 <!-- FOOTER -->
