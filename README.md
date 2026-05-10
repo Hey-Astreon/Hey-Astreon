@@ -100,15 +100,16 @@ class Astreon implements Developer {
 <!-- TERMINAL BLOCK 3 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_initialize_intelligence.sys&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
 <br/>
-<img src="https://img.shields.io/badge/%5B_MOD__01_%5D-LANGCHAIN-1A3B31?style=for-the-badge&logo=langchain&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/%5B_MOD__02_%5D-OPENAI-412991?style=for-the-badge&logo=openai&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/%5B_MOD__03_%5D-GEMINI-8E75B2?style=for-the-badge&logo=google&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/%5B_MOD__04_%5D-H_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=00F2FF" />
+<img src="https://img.shields.io/badge/LANGCHAIN%20%20%E2%97%8F%20//%20ACTIVE-1A3B31?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/OPENAI%20%20%E2%97%8F%20//%20ACTIVE-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/GOOGLE%20GEMINI%20%20%E2%97%8F%20//%20ACTIVE-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/%5B_MOD__05_%5D-T_FLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/%5B_MOD__06_%5D-PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/%5B_MOD__07_%5D-OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/%5B_MOD__08_%5D-SCIKIT-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=00F2FF" />
+<img src="https://img.shields.io/badge/HUGGING%20FACE%20%20%E2%97%8F%20//%20ACTIVE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/TENSORFLOW%20%20%E2%97%8F%20//%20ACTIVE-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/PYTORCH%20%20%E2%97%8F%20//%20ACTIVE-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/OPENCV%20%20%E2%97%8F%20//%20ACTIVE-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/SCIKIT--LEARN%20%20%E2%97%8F%20//%20ACTIVE-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <br/><br/>
 
 <!-- TERMINAL BLOCK 4 -->
