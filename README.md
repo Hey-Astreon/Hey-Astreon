@@ -89,25 +89,18 @@ class Astreon implements Developer {
 <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28" align="absmiddle" alt="Shield"/> Tech Arsenal</b>
 <br/><br/>
 
-`Languages`<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="Languages" />
-<br/><br/>
+</div>
 
-`Frameworks`<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" alt="Frameworks" />
-<br/><br/>
+| Classification | Technologies |
+| :--- | :--- |
+| **⚙️ Core Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="Languages" /> |
+| **🏗️ Architecture** | <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" alt="Frameworks" /> |
+| **🧠 Intelligence** | <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=google&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00F2FF" /> |
+| **☁️ Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" alt="Infra" /> |
 
-`AI / ML`<br/>
-<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=google&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00F2FF" />
-<br/><br/>
+<br/>
 
-`Infrastructure & Data`<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" alt="Infra" />
-
-<br/><br/><br/>
+<div align="center">
 
 <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" align="absmiddle" alt="Fire"/> Active Operations</b>
 <br/><br/>
