@@ -81,11 +81,6 @@ class Astreon implements Developer {
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Astreon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F2FF&line=8B5CF6&point=E6EDF3" alt="Activity Graph" width="100%" />
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=TECH+STACK;ENGINEERED+FOR+SCALE" alt="Tech Stack" />
