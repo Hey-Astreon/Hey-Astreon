@@ -84,21 +84,21 @@ class Astreon implements Developer {
 <br/><br/><br/>
 
 <!-- TERMINAL BLOCK 1 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_Programming+Languages&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_System+Core+Logic&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
 <br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" height="42" />
 
 <br/><br/>
 
 <!-- TERMINAL BLOCK 2 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_Frameworks+%26+Libraries&fontSize=15&fontColor=8B5CF6&fontAlignY=50" alt="Terminal Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_Application+Frameworks&fontSize=15&fontColor=8B5CF6&fontAlignY=50" alt="Terminal Header" />
 <br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" height="42" />
 
 <br/><br/>
 
 <!-- TERMINAL BLOCK 3 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_GenAI+%26+Machine+Learning&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_Neural+%26+Intelligence+Layers&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
 <br/>
 <img src="https://img.shields.io/badge/LANGCHAIN%20%20%E2%97%8F%20//%20ACTIVE-1A3B31?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/OPENAI%20%20%E2%97%8F%20//%20ACTIVE-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
@@ -113,7 +113,7 @@ class Astreon implements Developer {
 <br/><br/>
 
 <!-- TERMINAL BLOCK 4 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_Developer+Tools+%26+Cloud&fontSize=15&fontColor=8B5CF6&fontAlignY=50" alt="Terminal Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_Cloud+%26+Deployment+Fabric&fontSize=15&fontColor=8B5CF6&fontAlignY=50" alt="Terminal Header" />
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" height="42" />
 
