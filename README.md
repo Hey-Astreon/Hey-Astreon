@@ -77,9 +77,12 @@ class Astreon implements Developer {
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" height="185" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Astreon&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=8B5CF6" height="185" />
+<table border="0">
+<tr>
+<td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" height="185" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Astreon&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&layout=compact" height="185" /></td>
+</tr>
+</table>
 
 <br/><br/>
 <br/>
