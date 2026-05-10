@@ -152,29 +152,33 @@ graph TD
     classDef core fill:#0D1117,stroke:#00F2FF,stroke-width:2px,color:#E6EDF3;
     classDef ai fill:#0D1117,stroke:#8B5CF6,stroke-width:2px,color:#E6EDF3;
     classDef infra fill:#0D1117,stroke:#4ADE80,stroke-width:2px,color:#E6EDF3;
+    classDef orchestrator fill:#1A1F2C,stroke:#00F2FF,stroke-width:3px,color:#00F2FF;
     classDef project fill:#1A1F2C,stroke:#F59E0B,stroke-width:2px,color:#F59E0B;
 
-    %% Architecture Nodes
-    A[System Core Logic]:::core
-    B{Orchestration Layer}:::core
-    C[Neural Intelligence Engine]:::ai
-    D[Cloud Deployment Fabric]:::infra
+    %% Level 1: Core Pillars
+    L1[System Core Logic]:::core
+    AI[Neural Intelligence Engine]:::ai
+    L2[Cloud Deployment Fabric]:::infra
     
-    %% Active Operations
+    %% Level 2: The Brain
+    HUB{{Sovereign Orchestrator}}:::orchestrator
+
+    %% Level 3: Active Operations
     P1[[SEMBIOTE-Ai]]:::project
     P2[[Astra Vision]]:::project
-    P3[[ZK Password Vault]]:::project
+    P3[[ZK Vault]]:::project
     P4[[Aura Insights]]:::project
 
-    %% Data Flow
-    A -->|Powers| B
-    B -->|Initializes| C
-    B -->|Deploys via| D
+    %% Data Flow (Inputs)
+    L1 -->|Architecture| HUB
+    AI -->|Cognition| HUB
+    L2 -->|Infrastructure| HUB
     
-    C -.->|Injects AI| P1
-    C -.->|Powers Vision| P2
-    A -.->|Secures Logic| P3
-    D -.->|Hosts Platform| P4
+    %% Data Flow (Outputs)
+    HUB ===|Deploys| P1
+    HUB ===|Deploys| P2
+    HUB ===|Deploys| P3
+    HUB ===|Deploys| P4
 ```
 
 <br/>
