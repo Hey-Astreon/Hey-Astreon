@@ -73,7 +73,7 @@ class Astreon implements Developer {
 
 <div align="center">
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" align="absmiddle" alt="UFO"/> Telemetry</b>
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" align="absmiddle" alt="UFO"/> Telemetry Dashboard</b>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Hey-Astreon&color=00F2FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 <br/><br/>
@@ -81,63 +81,30 @@ class Astreon implements Developer {
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" alt="Streak" />
-<br/><br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hey-Astreon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E6EDF3&langs_count=6" alt="Top Languages" />
 
-<br/><br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&width=400" alt="UI Divider" />
 <br/><br/>
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="35" align="absmiddle" alt="Shield"/> &nbsp; THE SOVEREIGN PIPELINE</b>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Astreon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F2FF&line=8B5CF6&point=E6EDF3" alt="Activity Graph" width="100%" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=TECH+STACK;ENGINEERED+FOR+SCALE" alt="Tech Stack" />
+
+</div>
+
+> ### ⚙️ Languages & Core
+> <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" height="40" />
+
+> ### 🏗️ Frameworks & Architecture
+> <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" height="40" />
+
+> ### ☁️ Infrastructure & Data
+> <img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" height="40" />
+
+> ### 🧠 Intelligence Engine
+> <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=google&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00F2FF" />
+
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&lines=[+SYSTEM_ARSENAL_ONLINE+];[+ARCHITECTURAL_FLOW_ENGAGED+]" alt="Arsenal Online" />
-<br/><br/>
-
-<!-- LAYER 1: LANGUAGES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_fetching_core_logic...;[+]_languages_compiled" />
-<br/>
-<b>⚙️ Core Languages</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="Languages" />
-<br/><br/>
-
-<h3 align="center"><b><samp> ⇣ </samp></b></h3>
-
-<!-- LAYER 2: FRAMEWORKS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_building_architecture...;[+]_frameworks_deployed" />
-<br/>
-<b>🏗️ Architecture</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" alt="Frameworks" />
-<br/><br/>
-
-<h3 align="center"><b><samp> ⇣ </samp></b></h3>
-
-<!-- LAYER 3: INFRASTRUCTURE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_establishing_uplink...;[+]_infrastructure_secured" />
-<br/>
-<b>☁️ Infrastructure & Data</b>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" alt="Infra" />
-<br/><br/>
-
-<h3 align="center"><b><samp> ⇣ </samp></b></h3>
-
-<!-- LAYER 4: INTELLIGENCE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_activating_neural_net...;[+]_intelligence_online" />
-<br/>
-<b>🧠 Intelligence Engine</b>
-<br/><br/>
-<img src="https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=google&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00F2FF" />
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00F2FF" />&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=00F2FF" />
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&width=400" alt="UI Divider" />
-<br/><br/>
 
 <div align="center">
 
