@@ -1,100 +1,184 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1220,40:1d4ed8,100:7c3aed&text=Roushan%20Kumar%20(Astreon)&fontColor=f8fafc&fontSize=42&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58" width="100%" alt="Header Banner" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ASTREON — GITHUB PROFILE README
+     Design: Sovereign Dashboard v2.0
+     Palette: #00F2FF (Neon Cyan) | #8B5CF6 (Electric Violet) | #0D1117 (Dark)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │  SECTION 1 — HEADER                                                 │
+     └─────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=850&color=60A5FA&center=true&vCenter=true&width=920&lines=I+build+software+that+feels+premium+and+performs+in+production.;I+turn+AI+from+a+demo+feature+into+a+working+product+layer.;I+combine+frontend+clarity+with+backend+reliability.;Build+what+others+say+is+impossible." width="100%" alt="Typing Intro" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:141E30,50:243B55,75:141E30,100:0D1117&height=220&section=header&text=Roushan%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20System%20Architect%20%7C%20Prompt%20Engineer&descSize=17&descColor=00F2FF&descAlignY=52&animation=fadeIn" width="100%" alt="Astreon — Roushan Kumar" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&height=40&lines=Building+What+Others+Say+Is+Impossible;Crafting+Invisible+Systems+That+Matter;The+Ghost+In+The+Machine;%E2%9A%A1+Solo+Developer+%7C+System+Architect" alt="Typing" />
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.astreon.me/"><img src="https://img.shields.io/badge/Portfolio-astreon.me-000000?style=for-the-badge&logo=vercel&logoColor=00F2FF" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/roushan-kumar-ab4b19250/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=000000&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRjJGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g3LjM1M1Y5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTEuOTM5LTEuMTM0LTEuOTM5LTIuMjYyIDAtMS4xMi44MDUtMi4yNzIgMS45Ni0yLjI3MiAxLjEzOCAwIDEuOTE3LjExMzUgMS45NDEgMi4yNjIgMCAxLjEyOC0uODA0IDIuMjYyLTEuOTYyIDIuMjYyek03LjEyMyAyMC40NTJIMy41NTRWOWgzLjU2OXYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&style=for-the-badge" /></a>&nbsp;
+<a href="mailto:roushanraut404@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=00F2FF" /></a>&nbsp;
+<a href="https://www.instagram.com/its_astreon"><img src="https://img.shields.io/badge/Instagram-@its__astreon-000000?style=for-the-badge&logo=instagram&logoColor=00F2FF" /></a>&nbsp;
+<a href="https://discord.com/users/its_astreon"><img src="https://img.shields.io/badge/Discord-its__astreon-000000?style=for-the-badge&logo=discord&logoColor=00F2FF" /></a>
+
 </div>
 
-<div align="center">
-  <a href="https://www.astreon.me/"><img src="https://img.shields.io/badge/Portfolio-astreon.me-0f172a?style=for-the-badge&logo=vercel&logoColor=93c5fd" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/roushan-kumar-ab4b19250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=93c5fd" alt="LinkedIn" /></a>
-  <a href="mailto:roushanraut404@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=93c5fd" alt="Email" /></a>
-  <a href="https://discord.com/users/its_astreon"><img src="https://img.shields.io/badge/Discord-its__astreon-0f172a?style=for-the-badge&logo=discord&logoColor=93c5fd" alt="Discord" /></a>
-</div>
+<br/>
 
----
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │  SECTION 2 — CLASSIFIED DOSSIER (Full-width, above the grid)        │
+     └─────────────────────────────────────────────────────────────────────┘ -->
 
-## `identity.ts`
+<details open>
+<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="22" align="absmiddle" alt="Ninja"/> &nbsp; Classified Dossier — <code>terminal/user/astreon.ts</code></b></summary>
+<br/>
 
-```ts
-class Astreon {
-  name = "Roushan Kumar";
-  alias = "Astreon";
-  location = "India";
-  role = "Full-Stack & AI-Focused Engineer";
-  mission = "Design software that is clean, scalable, and actually useful.";
-  focus = ["AI-powered systems", "product-grade architecture", "security-first thinking"];
+```typescript
+// 🔴 🟡 🟢  terminal/user/astreon.ts
+
+class Astreon implements Developer {
+    readonly name        = "Roushan Kumar";
+    readonly alias       = "Astreon";
+    readonly location    = "India 🇮🇳";
+    readonly education   = "BCA CSIT @ Amity University Noida";
+
+    readonly currentFocus = [
+        "AI-Powered Systems",
+        "Full-Stack Architecture",
+        "Low-Level Security Research",
+    ];
+
+    readonly expertise = {
+        languages:  ["C", "C++", "C#", "Python", "JavaScript", "TypeScript"],
+        frontend:   ["Next.js", "React", "Vue"],
+        backend:    ["Node.js", ".NET", "FastAPI"],
+        ai_ml:      ["Gemini API", "LangChain", "OpenAI"],
+        cloud:      ["AWS", "Azure", "Docker"],
+    };
+
+    readonly philosophy = "Build what others say is impossible.";
+    readonly status     = "Turning caffeine into sovereign systems";
 }
 ```
 
-I design end-to-end products where **UX, system design, and intelligence workflows** move together.
+</details>
 
----
+<br/>
 
-## Signature Work
-
-| Project | What I built | Stack |
-|---|---|---|
-| [**Aura Insights — AI Book Intelligence**](https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence) | Full-stack RAG platform with scraping, semantic indexing, and contextual Q&A over book data. | `Next.js 14` `Django REST` `ChromaDB` `Selenium` `Sentence-Transformers` |
-| [**AI-First CRM HCP Interaction Logging Module**](https://github.com/Hey-Astreon/AI-CRM-HCP-Interaction-Logging-Module) | Dual-mode interaction capture: structured form plus conversational extraction mapped to one backend workflow. | `React` `Redux Toolkit` `FastAPI` `LangGraph` `LangChain` `PostgreSQL` |
-| [**Dynamic Quiz Management System**](https://github.com/Hey-Astreon/Dynamic-Quiz-Management-System) | Gamified terminal engine with multiplayer mode, achievements, leaderboard, and export tooling. | `Python` `JSON` `FPDF2` `Colorama` |
-
----
-
-## Engineering Signal
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │  SECTION 3 — TELEMETRY & OPERATIONS (Responsive Stack)              │
+     └─────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Astreon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" align="absmiddle" alt="UFO"/> Telemetry</b>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Hey-Astreon&color=00F2FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" alt="Streak" />
+<br/><br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hey-Astreon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E6EDF3&langs_count=6" alt="Top Languages" />
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&width=400" alt="UI Divider" />
+<br/><br/>
+
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="35" align="absmiddle" alt="Shield"/> &nbsp; THE SOVEREIGN PIPELINE</b>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&lines=[+SYSTEM_ARSENAL_ONLINE+];[+ARCHITECTURAL_FLOW_ENGAGED+]" alt="Arsenal Online" />
+<br/><br/>
+
+<!-- LAYER 1: LANGUAGES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_fetching_core_logic...;[+]_languages_compiled" />
+<br/>
+<b>⚙️ Core Languages</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="Languages" />
+<br/><br/>
+
+<h3 align="center"><b><samp> ⇣ </samp></b></h3>
+
+<!-- LAYER 2: FRAMEWORKS -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_building_architecture...;[+]_frameworks_deployed" />
+<br/>
+<b>🏗️ Architecture</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" alt="Frameworks" />
+<br/><br/>
+
+<h3 align="center"><b><samp> ⇣ </samp></b></h3>
+
+<!-- LAYER 3: INFRASTRUCTURE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_establishing_uplink...;[+]_infrastructure_secured" />
+<br/>
+<b>☁️ Infrastructure & Data</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" alt="Infra" />
+<br/><br/>
+
+<h3 align="center"><b><samp> ⇣ </samp></b></h3>
+
+<!-- LAYER 4: INTELLIGENCE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_activating_neural_net...;[+]_intelligence_online" />
+<br/>
+<b>🧠 Intelligence Engine</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=google&logoColor=00F2FF" />&nbsp;
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00F2FF" />
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00F2FF" />&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=00F2FF" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&width=400" alt="UI Divider" />
+<br/><br/>
+
+<div align="center">
+
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" align="absmiddle" alt="Fire"/> Active Operations</b>
+<br/><br/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+| Project | Stack | Status |
+|:---|:---|:---|
+| [🛸 SEMBIOTE-Ai](https://github.com/Hey-Astreon/SEMBIOTE-Ai) | `C#` `.NET` | ![SOVEREIGN](https://img.shields.io/badge/SOVEREIGN-00F2FF?style=flat-square&labelColor=0D1117&color=00F2FF) |
+| [🔭 Astra Vision](https://github.com/Hey-Astreon/Astra-Vision) | `JS` `AI` | ![PUBLIC](https://img.shields.io/badge/PUBLIC-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6) |
+| [🔐 ZK Password Vault](https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager) | `Crypto` | ![SECURITY](https://img.shields.io/badge/SECURITY-EF4444?style=flat-square&labelColor=0D1117&color=EF4444) |
+| [📚 Aura Insights](https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence) | `Python` `AI` | ![AI](https://img.shields.io/badge/AI-4ADE80?style=flat-square&labelColor=0D1117&color=4ADE80) |
 
----
+<br/>
 
-## Capability Stack
-
-<div align="center">
-  <b>⚙️ Core Languages & Frameworks</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,cs,react,nextjs,vue,nodejs,fastapi,dotnet&theme=dark" alt="Code Stack" />
-  <br/><br/><br/>
-
-  <b>☁️ Infrastructure & Intelligence Systems</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,aws,linux&theme=dark" alt="Infra Stack" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=chainlink&logoColor=93c5fd" />&nbsp;
-  <img src="https://img.shields.io/badge/Gemini_API-0f172a?style=flat-square&logo=google&logoColor=93c5fd" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=93c5fd" />&nbsp;
-  <img src="https://img.shields.io/badge/HuggingFace-0f172a?style=flat-square&logo=huggingface&logoColor=93c5fd" />
-</div>
-
----
-
-## Current Build Mode
-
-- Shipping practical AI-assisted products with real user value
-- Strengthening architecture depth across frontend and backend systems
-- Building distinct interfaces that remain fast, readable, and maintainable
-
----
-
-## Active Operations
-
-| Project | Domain | Status |
-|---|---|---|
-| [SEMBIOTE-Ai](https://github.com/Hey-Astreon/SEMBIOTE-Ai) | AI + .NET Systems | Active |
-| [Astra Vision](https://github.com/Hey-Astreon/Astra-Vision) | AI + JavaScript | Active |
-| [Zero-Knowledge Password Manager](https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager) | Security Engineering | Active |
-
----
+<!-- ┌─────────────────────────────────────────────────────────────────────┐
+     │  SECTION 4 — GLOBAL METRICS                                          │
+     └─────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hey-Astreon&label=PROFILE+VIEWS&color=3b82f6&style=flat-square" alt="Profile Views" />
-  <br/><br/>
-  <b>Engineered with precision. Shipped with intent.</b>
-  <br/>
-  <i>"Build what others say is impossible."</i>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hey-Astreon&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Astreon&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F2FF&line=8B5CF6&point=00F2FF&area=true" alt="Activity Graph" width="100%" />
+
+<br/>
+
+<!-- FOOTER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2500&pause=500&color=00F2FF&center=true&vCenter=true&width=450&height=28&lines=%5B+SYSTEM+ACTIVE+%5D;%5B+SHIELD+ENGAGED+%5D;%5B+GHOST+MODE+%5D;%5B+ALL+SYSTEMS+NOMINAL+%5D" alt="Footer Status" />
+
+<br/>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" align="absmiddle" alt="Zap"/> Engineered with precision. Deployed with purpose.</h3>
+<p><i>"Build what others say is impossible."</i></p>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:141E30,50:243B55,75:141E30,100:0D1117&height=80&section=footer" width="100%" />
+
 </div>
