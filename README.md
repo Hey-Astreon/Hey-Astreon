@@ -142,7 +142,7 @@ class Astreon implements Developer {
 <br/>
 
 <div align="center">
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite%20Antenna.png" width="28" align="absmiddle" alt="Radar"/> Sovereign Architecture Blueprint</b>
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="28" align="absmiddle" alt="Radar"/> Sovereign Architecture Blueprint</b>
 <br/><br/>
 </div>
 
