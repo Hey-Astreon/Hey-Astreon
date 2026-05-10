@@ -68,79 +68,58 @@ class Astreon implements Developer {
 <br/>
 
 <!-- ┌─────────────────────────────────────────────────────────────────────┐
-     │  SECTION 3 — DASHBOARD GRID (Balanced 2-Column)                     │
-     │  LEFT  (50%): GitHub Telemetry                                       │
-     │  RIGHT (50%): Tech Arsenal + Projects                                │
+     │  SECTION 3 — TELEMETRY & OPERATIONS (Responsive Stack)              │
      └─────────────────────────────────────────────────────────────────────┘ -->
 
-<table width="100%" cellpadding="8" cellspacing="0" style="border:none; border-collapse:collapse;">
-<tr>
+<div align="center">
 
-<!-- ── LEFT COLUMN: TELEMETRY ─────────────────────────────────────────── -->
-<td width="50%" valign="top" align="center" style="border:none;">
-
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="22" align="absmiddle" alt="UFO"/> Telemetry</b>
-
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" align="absmiddle" alt="UFO"/> Telemetry</b>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=Hey-Astreon&color=00F2FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hey-Astreon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3&ring_color=00F2FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" alt="Streak" />
+<br/><br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hey-Astreon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E6EDF3&langs_count=6" alt="Top Languages" />
 
-<br/>
+<br/><br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Astreon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F2FF&fire=8B5CF6&currStreakLabel=00F2FF&sideLabels=E6EDF3&dates=555555" width="100%" alt="Streak" />
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28" align="absmiddle" alt="Shield"/> Tech Arsenal</b>
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hey-Astreon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E6EDF3&langs_count=6" width="100%" alt="Top Languages" />
-
-</td>
-
-<!-- ── RIGHT COLUMN: ARSENAL + PROJECTS ──────────────────────────────── -->
-<td width="50%" valign="top" align="left" style="border:none; padding-left:12px;">
-
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" align="absmiddle" alt="Shield"/> Tech Arsenal</b>
-
-`Languages`
-<br/>
+`Languages`<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="Languages" />
+<br/><br/>
 
-<br/>
-
-`Frameworks`
-<br/>
+`Frameworks`<br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" alt="Frameworks" />
+<br/><br/>
 
-<br/>
-
-`AI / ML`
-<br/>
-<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=google&logoColor=00F2FF" />
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=00F2FF" />
-<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00F2FF" />
+`AI / ML`<br/>
+<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=google&logoColor=00F2FF" />&nbsp;
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=00F2FF" />&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00F2FF" />&nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00F2FF" />
+<br/><br/>
 
-<br/>
-
-`Infrastructure & Data`
-<br/>
+`Infrastructure & Data`<br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" alt="Infra" />
 
+<br/><br/><br/>
+
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" align="absmiddle" alt="Fire"/> Active Operations</b>
 <br/><br/>
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="24" align="absmiddle" alt="Fire"/> Active Operations</b>
+</div>
 
 | Project | Stack | Status |
-|---|---|---|
+|:---|:---|:---|
 | [🛸 SEMBIOTE-Ai](https://github.com/Hey-Astreon/SEMBIOTE-Ai) | `C#` `.NET` | ![SOVEREIGN](https://img.shields.io/badge/SOVEREIGN-00F2FF?style=flat-square&labelColor=0D1117&color=00F2FF) |
 | [🔭 Astra Vision](https://github.com/Hey-Astreon/Astra-Vision) | `JS` `AI` | ![PUBLIC](https://img.shields.io/badge/PUBLIC-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6) |
 | [🔐 ZK Password Vault](https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager) | `Crypto` | ![SECURITY](https://img.shields.io/badge/SECURITY-EF4444?style=flat-square&labelColor=0D1117&color=EF4444) |
 | [📚 Aura Insights](https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence) | `Python` `AI` | ![AI](https://img.shields.io/badge/AI-4ADE80?style=flat-square&labelColor=0D1117&color=4ADE80) |
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -150,7 +129,7 @@ class Astreon implements Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hey-Astreon&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hey-Astreon&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15" alt="Trophies" />
 
 <br/><br/>
 
