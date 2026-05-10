@@ -132,12 +132,23 @@ class Astreon implements Developer {
 
 </div>
 
-| Project | Stack | Status |
-|:---|:---|:---|
-| [🛸 SEMBIOTE-Ai](https://github.com/Hey-Astreon/SEMBIOTE-Ai) | `C#` `.NET` | ![SOVEREIGN](https://img.shields.io/badge/SOVEREIGN-00F2FF?style=flat-square&labelColor=0D1117&color=00F2FF) |
-| [🔭 Astra Vision](https://github.com/Hey-Astreon/Astra-Vision) | `JS` `AI` | ![PUBLIC](https://img.shields.io/badge/PUBLIC-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6) |
-| [🔐 ZK Password Vault](https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager) | `Crypto` | ![SECURITY](https://img.shields.io/badge/SECURITY-EF4444?style=flat-square&labelColor=0D1117&color=EF4444) |
-| [📚 Aura Insights](https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence) | `Python` `AI` | ![AI](https://img.shields.io/badge/AI-4ADE80?style=flat-square&labelColor=0D1117&color=4ADE80) |
+<div align="center">
+  <a href="https://github.com/Hey-Astreon/SEMBIOTE-Ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hey-Astreon&repo=SEMBIOTE-Ai&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hey-Astreon/Astra-Vision">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hey-Astreon&repo=Astra-Vision&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hey-Astreon&repo=Zero-Knowledge-Password-Manager&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hey-Astreon&repo=Aura-Insights-AI-Book-Intelligence&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
+  </a>
+</div>
 
 <br/>
 
