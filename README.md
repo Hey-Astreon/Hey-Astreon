@@ -132,22 +132,24 @@ class Astreon implements Developer {
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/Hey-Astreon/SEMBIOTE-Ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Hey-Astreon&repo=SEMBIOTE-Ai&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="400" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Hey-Astreon/Astra-Vision">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Hey-Astreon&repo=Astra-Vision&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="400" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Hey-Astreon&repo=Zero-Knowledge-Password-Manager&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="400" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Hey-Astreon&repo=Aura-Insights-AI-Book-Intelligence&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=8B5CF6&text_color=E6EDF3" width="400" />
-  </a>
+<div align="left">
+
+> ### [🛸 SEMBIOTE-Ai](https://github.com/Hey-Astreon/SEMBIOTE-Ai)
+> **Stack:** `C#` `.NET` &nbsp;&nbsp;|&nbsp;&nbsp; **Status:** ![SOVEREIGN](https://img.shields.io/badge/SOVEREIGN-00F2FF?style=flat-square&labelColor=0D1117&color=00F2FF)
+> *The core mutualistic bridge for secure intelligence extraction.*
+
+> ### [🔭 Astra Vision](https://github.com/Hey-Astreon/Astra-Vision)
+> **Stack:** `JS` `AI` &nbsp;&nbsp;|&nbsp;&nbsp; **Status:** ![PUBLIC](https://img.shields.io/badge/PUBLIC-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6)
+> *Next-generation visual perception and processing engine.*
+
+> ### [🔐 ZK Password Vault](https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager)
+> **Stack:** `Crypto` `Auth` &nbsp;&nbsp;|&nbsp;&nbsp; **Status:** ![SECURITY](https://img.shields.io/badge/SECURITY-EF4444?style=flat-square&labelColor=0D1117&color=EF4444)
+> *Absolute zero-knowledge cryptographic credential management.*
+
+> ### [📚 Aura Insights](https://github.com/Hey-Astreon/Aura-Insights-AI-Book-Intelligence)
+> **Stack:** `Python` `AI` &nbsp;&nbsp;|&nbsp;&nbsp; **Status:** ![AI](https://img.shields.io/badge/AI-4ADE80?style=flat-square&labelColor=0D1117&color=4ADE80)
+> *Neural intelligence layer for literary data extraction.*
+
 </div>
 
 <br/>
