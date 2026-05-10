@@ -14,6 +14,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&height=40&lines=Building+What+Others+Say+Is+Impossible;Crafting+Invisible+Systems+That+Matter;The+Ghost+In+The+Machine;%E2%9A%A1+Solo+Developer+%7C+System+Architect" alt="Typing" />
 
+<br/><br/>
+
+> **WANT TO HIRE ME? RUN THIS IN YOUR TERMINAL:**
+> ```bash
+> npx hey-astreon
+> ```
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_Secure+Comm_Links&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
