@@ -141,6 +141,44 @@ class Astreon implements Developer {
 
 <br/>
 
+<div align="center">
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite%20Antenna.png" width="28" align="absmiddle" alt="Radar"/> Sovereign Architecture Blueprint</b>
+<br/><br/>
+</div>
+
+```mermaid
+graph TD
+    %% Custom Sovereign Styling
+    classDef core fill:#0D1117,stroke:#00F2FF,stroke-width:2px,color:#E6EDF3;
+    classDef ai fill:#0D1117,stroke:#8B5CF6,stroke-width:2px,color:#E6EDF3;
+    classDef infra fill:#0D1117,stroke:#4ADE80,stroke-width:2px,color:#E6EDF3;
+    classDef project fill:#1A1F2C,stroke:#F59E0B,stroke-width:2px,color:#F59E0B;
+
+    %% Architecture Nodes
+    A[System Core Logic]:::core
+    B{Orchestration Layer}:::core
+    C[Neural Intelligence Engine]:::ai
+    D[Cloud Deployment Fabric]:::infra
+    
+    %% Active Operations
+    P1[[SEMBIOTE-Ai]]:::project
+    P2[[Astra Vision]]:::project
+    P3[[ZK Password Vault]]:::project
+    P4[[Aura Insights]]:::project
+
+    %% Data Flow
+    A -->|Powers| B
+    B -->|Initializes| C
+    B -->|Deploys via| D
+    
+    C -.->|Injects AI| P1
+    C -.->|Powers Vision| P2
+    A -.->|Secures Logic| P3
+    D -.->|Hosts Platform| P4
+```
+
+<br/>
+
 <!-- ┌─────────────────────────────────────────────────────────────────────┐
      │  SECTION 4 — GLOBAL METRICS                                          │
      └─────────────────────────────────────────────────────────────────────┘ -->
