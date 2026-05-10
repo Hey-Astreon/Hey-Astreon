@@ -86,19 +86,58 @@ class Astreon implements Developer {
 
 <br/><br/><br/>
 
-<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28" align="absmiddle" alt="Shield"/> Tech Arsenal</b>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&width=400" alt="UI Divider" />
 <br/><br/>
 
-</div>
-
-| Classification | Technologies |
-| :--- | :--- |
-| **⚙️ Core Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="Languages" /> |
-| **🏗️ Architecture** | <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" alt="Frameworks" /> |
-| **🧠 Intelligence** | <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=google&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00F2FF" />&nbsp;<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00F2FF" /> |
-| **☁️ Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" alt="Infra" /> |
-
+<b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="35" align="absmiddle" alt="Shield"/> &nbsp; THE SOVEREIGN PIPELINE</b>
 <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&lines=[+SYSTEM_ARSENAL_ONLINE+];[+ARCHITECTURAL_FLOW_ENGAGED+]" alt="Arsenal Online" />
+<br/><br/>
+
+<!-- LAYER 1: LANGUAGES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&lines=>_fetching_core_logic...;[+]_languages_compiled" height="25" />
+<br/>
+<b>⚙️ Core Languages</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="Languages" />
+<br/><br/>
+
+<h3 align="center"><b><samp> ⇣ </samp></b></h3>
+
+<!-- LAYER 2: FRAMEWORKS -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&lines=>_building_architecture...;[+]_frameworks_deployed" height="25" />
+<br/>
+<b>🏗️ Architecture</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,dotnet,fastapi&theme=dark" alt="Frameworks" />
+<br/><br/>
+
+<h3 align="center"><b><samp> ⇣ </samp></b></h3>
+
+<!-- LAYER 3: INFRASTRUCTURE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&lines=>_establishing_uplink...;[+]_infrastructure_secured" height="25" />
+<br/>
+<b>☁️ Infrastructure & Data</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,postgresql,supabase,firebase&theme=dark" alt="Infra" />
+<br/><br/>
+
+<h3 align="center"><b><samp> ⇣ </samp></b></h3>
+
+<!-- LAYER 4: INTELLIGENCE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&lines=>_activating_neural_net...;[+]_intelligence_online" height="25" />
+<br/>
+<b>🧠 Intelligence Engine</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=google&logoColor=00F2FF" />&nbsp;
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00F2FF" />
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00F2FF" />&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=00F2FF" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=2&width=400" alt="UI Divider" />
+<br/><br/>
 
 <div align="center">
 
