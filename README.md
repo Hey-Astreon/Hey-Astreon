@@ -16,6 +16,10 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&width=400&text=%3E_Secure+Comm_Links&fontSize=15&fontColor=00F2FF&fontAlignY=50" alt="Terminal Header" />
+
+<br/><br/>
+
 <!-- SOCIAL BADGES -->
 <a href="https://www.astreon.me/"><img src="https://img.shields.io/badge/Portfolio-astreon.me-000000?style=for-the-badge&logo=vercel&logoColor=00F2FF" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/roushan-kumar-ab4b19250/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=000000&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRjJGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g3LjM1M1Y5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTEuOTM5LTEuMTM0LTEuOTM5LTIuMjYyIDAtMS4xMi44MDUtMi4yNzIgMS45Ni0yLjI3MiAxLjEzOCAwIDEuOTE3LjExMzUgMS45NDEgMi4yNjIgMCAxLjEyOC0uODA0IDIuMjYyLTEuOTYyIDIuMjYyek03LjEyMyAyMC40NTJIMy41NTRWOWgzLjU2OXYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&style=for-the-badge" /></a>&nbsp;
