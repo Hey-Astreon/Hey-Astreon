@@ -95,7 +95,7 @@ class Astreon implements Developer {
 <br/><br/>
 
 <!-- LAYER 1: LANGUAGES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&lines=>_fetching_core_logic...;[+]_languages_compiled" height="25" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_fetching_core_logic...;[+]_languages_compiled" />
 <br/>
 <b>⚙️ Core Languages</b>
 <br/><br/>
@@ -105,7 +105,7 @@ class Astreon implements Developer {
 <h3 align="center"><b><samp> ⇣ </samp></b></h3>
 
 <!-- LAYER 2: FRAMEWORKS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&lines=>_building_architecture...;[+]_frameworks_deployed" height="25" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_building_architecture...;[+]_frameworks_deployed" />
 <br/>
 <b>🏗️ Architecture</b>
 <br/><br/>
@@ -115,7 +115,7 @@ class Astreon implements Developer {
 <h3 align="center"><b><samp> ⇣ </samp></b></h3>
 
 <!-- LAYER 3: INFRASTRUCTURE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&lines=>_establishing_uplink...;[+]_infrastructure_secured" height="25" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_establishing_uplink...;[+]_infrastructure_secured" />
 <br/>
 <b>☁️ Infrastructure & Data</b>
 <br/><br/>
@@ -125,7 +125,7 @@ class Astreon implements Developer {
 <h3 align="center"><b><samp> ⇣ </samp></b></h3>
 
 <!-- LAYER 4: INTELLIGENCE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&lines=>_activating_neural_net...;[+]_intelligence_online" height="25" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=2000&color=00F2FF&center=true&vCenter=true&width=500&lines=>_activating_neural_net...;[+]_intelligence_online" />
 <br/>
 <b>🧠 Intelligence Engine</b>
 <br/><br/>
