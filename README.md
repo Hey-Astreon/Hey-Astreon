@@ -243,7 +243,7 @@ graph TD
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hey-Astreon&theme=algolia" alt="Commit Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hey-Astreon&theme=algolia" alt="Stats" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Hey-Astreon/Hey-Astreon/output/github-contribution-grid-snake-dark.svg" alt="Sovereign 3D Skyline" width="100%" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="Sovereign 3D Skyline" width="100%" />
 </div>
 
 <br/>
