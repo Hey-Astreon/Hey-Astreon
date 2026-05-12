@@ -35,12 +35,18 @@ def sovereign_translate(message):
 print(f"Initiating Intelligence Extraction for {USERNAME}...")
 
 try:
-    req = urllib.request.Request(API_URL, headers={'User-Agent': 'Sovereign-Agent/2.0'})
+    token = os.getenv("GITHUB_TOKEN")
+    headers = {'User-Agent': 'Sovereign-Agent/2.0'}
+    if token:
+        headers['Authorization'] = f'token {token}'
+        
+    req = urllib.request.Request(API_URL, headers=headers)
     with urllib.request.urlopen(req) as response:
         data = json.loads(response.read().decode())
 except Exception as e:
     print(f"Error fetching data: {e}")
-    exit(1)
+    # Don't fail the whole workflow if the API is just temporarily down
+    exit(0) 
 
 # Extract unique PushEvents
 push_events = []

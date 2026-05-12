@@ -21,6 +21,8 @@ jobs:
 
       - name: Execute Sovereign Audit Protocol
         run: python scripts/autonomous_audit.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push System Logs
         run: |
