@@ -1,0 +1,57 @@
+name: Sovereign Intelligence Hub
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  process-transmission:
+    if: contains(github.event.issue.title, 'SECURE_TRANSMISSION')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Intelligence Dependencies
+        run: pip install google-generativeai
+
+      - name: Process Secure Transmission
+        run: python scripts/process_transmission.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          TIMESTAMP: ${{ github.event.issue.created_at }}
+
+      - name: Commit Intelligence Log
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "chore(intelligence): log new secure transmission from ${{ github.event.issue.user.login }}"
+          git push
+
+      - name: Close Secure Channel
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            > **`[STATUS: TRANSMISSION_RECEIVED]`**
+            > 
+            > Intelligence extracted. Transmission logged to Sovereign Dashboard.
+            > 
+            > **`[CHANNEL_CLOSED]`**
+          reactions: 'rocket'
+
+      - name: Finalize Issue
+        run: gh issue close ${{ github.event.issue.number }} --reason "completed"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

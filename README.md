@@ -10,9 +10,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:141E30,50:243B55,75:141E30,100:0D1117&height=220&section=header&text=Roushan%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20System%20Architect%20%7C%20AI%20Orchestrator&descSize=17&descColor=00F2FF&descAlignY=52&animation=fadeIn" width="100%" alt="Astreon — Roushan Kumar" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=4000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1000&height=100&lines=INITIATING+SOVEREIGN+OS...;SYSTEM+INTEGRITY+CHECK:+[+OK+];LOADING+NEURAL+LAYERS...+[+OK+];ACCESS+GRANTED:+IDENTITY+ASTREON" alt="BIOS Boot" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&height=40&lines=Building+What+Others+Say+Is+Impossible;Crafting+Invisible+Systems+That+Matter;The+Ghost+In+The+Machine;%E2%9A%A1+Solo+Developer+%7C+System+Architect" alt="Typing" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=800&height=40&lines=%3E_ROUSHAN+KUMAR+//+SYSTEM+ARCHITECT;%3E_AI+ORCHESTRATOR+//+FULL+STACK;%3E_BUILDING+BEYOND+POSSIBILITY" alt="Sub-Header" />
 
 <br/><br/>
 
@@ -234,6 +235,16 @@ graph TD
 
 <br/><br/>
 
+<!-- SECTION 5 — MACRO ARCHITECTURE -->
+<div align="center">
+  <h3>🏙️ MACRO ARCHITECTURE — 3D CITYSCAPE</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=ASTREON_CITY_LOG&fontSize=40&fontColor=00F2FF&fontAlignY=40&animation=fadeIn" width="100%" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Astreon&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F2FF&line=8B5CF6&point=00F2FF&area=true" alt="Architecture" width="100%" />
+</div>
+
+<br/>
+
 <!-- ┌─────────────────────────────────────────────────────────────────────┐
      │  SECTION 6 — GLOBAL METRICS                                          │
      └─────────────────────────────────────────────────────────────────────┘ -->
@@ -257,6 +268,17 @@ graph TD
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="24" align="absmiddle" alt="Zap"/> Engineered with precision. Deployed with purpose.</h3>
 <p><i>"Build what others say is impossible."</i></p>
 </div>
+
+<div align="center">
+  <a href="https://github.com/Hey-Astreon/Hey-Astreon/issues/new?title=SECURE_TRANSMISSION&body=%3E_INITIATING_COMMUNICATION...%0A%0A%5B+TYPE_YOUR_MESSAGE_HERE+%5D">
+    <img src="https://img.shields.io/badge/--%3E%20OPEN_SECURE_CHANNEL-00F2FF?style=for-the-badge&logo=codestream&logoColor=0D1117" alt="Open Secure Channel" />
+  </a>
+</div>
+
+<br/>
+
+<!-- START_TRANSMISSIONS -->
+<!-- END_TRANSMISSIONS -->
 
 <br/>
 
