@@ -237,10 +237,13 @@ graph TD
 
 <!-- SECTION 5 — MACRO ARCHITECTURE -->
 <div align="center">
-  <h3>🏙️ MACRO ARCHITECTURE — 3D CITYSCAPE</h3>
+  <h3>🏙️ MACRO ARCHITECTURE — 3D SKYLINE</h3>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=ASTREON_CITY_LOG&fontSize=40&fontColor=00F2FF&fontAlignY=40&animation=fadeIn" width="100%" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Astreon&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F2FF&line=8B5CF6&point=00F2FF&area=true" alt="Architecture" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hey-Astreon&theme=algolia" alt="Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hey-Astreon&theme=algolia" alt="Stats" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Hey-Astreon/Hey-Astreon/output/github-contribution-grid-snake-dark.svg" alt="Sovereign 3D Skyline" width="100%" />
 </div>
 
 <br/>
