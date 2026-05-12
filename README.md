@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=4000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1000&height=100&lines=INITIATING+SOVEREIGN+OS...;SYSTEM+INTEGRITY+CHECK:+[+OK+];LOADING+NEURAL+LAYERS...+[+OK+];ACCESS+GRANTED:+IDENTITY+ASTREON" alt="BIOS Boot" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=5000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1000&height=100&lines=GREETINGS,+FELLOW+VISITOR.+INITIATING+SOVEREIGN+OS...;EXPLORE+MY+ACTIVE+TECH+STACK+%26+LIVE+SYSTEM+AUDITS;ANALYZE+CORE+PROJECTS+%26+ARCHITECTURE+BLUEPRINTS;VIEW+THE+3D+CITYSCAPE+%26+INTERACTIVE+SNAKE+PROTOCOL;OPEN+A+SECURE+CHANNEL+TO+TALK+TO+THE+AI+ARCHITECT;WANT+TO+HIRE+ME?+RUN+'npx+hey-astreon'+IN+TERMINAL" alt="Sovereign Onboarding" />
 
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=800&height=40&lines=%3E_ROUSHAN+KUMAR+//+SYSTEM+ARCHITECT;%3E_AI+ORCHESTRATOR+//+FULL+STACK;%3E_BUILDING+BEYOND+POSSIBILITY" alt="Sub-Header" />
