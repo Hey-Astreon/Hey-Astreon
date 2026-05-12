@@ -278,6 +278,9 @@ graph TD
 <br/>
 
 <!-- START_TRANSMISSIONS -->
+> **`[2026-05-12T18:15:08Z]`** **`Hey-Astreon`**: Intelligence extraction failed. Protocol timeout.
+>
+>
 <!-- END_TRANSMISSIONS -->
 
 <br/>
