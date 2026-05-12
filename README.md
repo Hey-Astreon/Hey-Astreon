@@ -258,7 +258,9 @@ graph TD
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Astreon&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F2FF&line=8B5CF6&point=00F2FF&area=true" alt="Activity Graph" width="100%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hey-Astreon/Hey-Astreon/output/github-contribution-grid-snake-dark.svg" alt="Sovereign Snake" width="100%" />
+</div>
 
 <br/>
 
