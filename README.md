@@ -40,7 +40,7 @@
 <br/>
 
 <!-- ┌─────────────────────────────────────────────────────────────────────┐
-     │  SECTION 2 — CLASSIFIED DOSSIER (Full-width, above the grid)        │
+     │  SECTION 2 — About Me (Full-width, above the grid)        │
      └─────────────────────────────────────────────────────────────────────┘ -->
 
 <details open>
